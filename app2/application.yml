@@ -1,0 +1,3 @@
+message: Hi from app2 definition (default value)
+server: 
+  port: 8181

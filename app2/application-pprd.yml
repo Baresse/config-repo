@@ -1,0 +1,3 @@
+message: Hi from app2 definition (pprd value)
+server: 
+  port: 8182
